@@ -1,5 +1,5 @@
 const beersURL = `http://localhost:3000/beers`
-// const beerURL = `http://localhost:3000/beers/${beer.id}`
+const beerURL = `http://localhost:3000/beers/${beer.id}`
 
 const beersColumn = document.querySelector('col-md-4')
 const beerDetailsColumn = document.querySelector('col-md-8')
